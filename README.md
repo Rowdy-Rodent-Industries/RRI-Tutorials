@@ -12,3 +12,13 @@
 
 #### PBOs
 - PBOs are the files arma reads. When you work with mods, and ready to either test or publish them, you have to "build" your folders into PBOs. There are three types of building software you can use, the following is below.
+
+#### Addon Breaker
+- Addon breaker is the bohemia provided building software. It builds one folder at a time, and only warns you of issues when you go to open the game. It is incredibly simple and very hard to build with. It is the biggest reccomendation to not work with this
+
+#### Mikeros Modding Tools
+- Mikeros was the default for many modders for many years. It builds and errors properly, checks p3ds and works with code ok. It's still very useful and works in a lot of ways, just dated and not updated often
+
+#### HEMTT
+- HEMMT is the build tool built by the ace team. It works with code and models very well, provides proper errors and warnings to ensure proper coding, and forces good coding practices. Now you have to adhere to certain things with hemtt, however it is the best on the market when it comes to building software, and highly recomended for modern day modding.
+
